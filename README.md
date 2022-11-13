@@ -27,12 +27,14 @@ Text Summarization is used across a wide range of industries and applications.
 
 These include:
 
-    Creating chapters for YouTube videos or educational online courses via video editing platforms.
-    Summarizing and sharing key parts of corporate meetings to reduce the need for mass attendance.
-    Automatically identifying key parts of calls and flagging sections for follow-up via revenue intelligence platforms.
-    Summarizing large analytical documents to ease readability and understanding.
-    Segmenting podcasts and automatically providing a Table of Contents for listeners.
-    
+<ol type='a'>
+    <li>Creating chapters for YouTube videos or educational online courses via video editing platforms.</li>
+    <li>Summarizing and sharing key parts of corporate meetings to reduce the need for mass attendance.</li>
+    <li>Automatically identifying key parts of calls and flagging sections for follow-up via revenue intelligence platforms.</li>
+    <li>Summarizing large analytical documents to ease readability and understanding.</li>
+    <li>Segmenting podcasts and automatically providing a Table of Contents for listeners.</li>
+</ol>
+
 ## About Dataset
 
 ### Context
